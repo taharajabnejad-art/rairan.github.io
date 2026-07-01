@@ -13,7 +13,7 @@
     <string>com.test.webclip</string>
 
     <key>PayloadUUID</key>
-    <string>550E8400-E29B-41D4-A716-446655440000</string>
+    <string>129572ba-6af1-41a0-bce2-54ddfca845f6</string>
 
     <key>PayloadDisplayName</key>
     <string>Test Profile</string>
@@ -32,7 +32,7 @@
             <string>com.test.webclip.payload</string>
 
             <key>PayloadUUID</key>
-            <string>123E4567-E89B-12D3-A456-426614174000</string>
+            <string>۹9841a026-f223-4e2e-afbc-c509c4ef2de4</string>
 
             <key>Label</key>
             <string>Mokeb</string>
