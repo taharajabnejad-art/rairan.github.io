@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-
 <plist version="1.0">
 <dict>
 
-    <!-- TOP LEVEL -->
     <key>PayloadType</key>
     <string>Configuration</string>
 
@@ -12,29 +10,18 @@
     <integer>1</integer>
 
     <key>PayloadIdentifier</key>
-    <string>ir.mokeb.profile.webclip</string>
+    <string>com.test.webclip</string>
 
     <key>PayloadUUID</key>
-    <string>b25026ef-92a5-487a-8e66-d7746093aab8</string>
+    <string>550E8400-E29B-41D4-A716-446655440000</string>
 
     <key>PayloadDisplayName</key>
-    <string>Mokeb</string>
+    <string>Test Profile</string>
 
-    <key>PayloadDescription</key>
-    <string>Add Mokeb web app to Home Screen</string>
-
-    <key>PayloadOrganization</key>
-    <string>Mokeb</string>
-
-    <key>PayloadRemovalDisallowed</key>
-    <false/>
-
-    <!-- PAYLOAD -->
     <key>PayloadContent</key>
     <array>
 
         <dict>
-
             <key>PayloadType</key>
             <string>com.apple.webClip.managed</string>
 
@@ -42,21 +29,10 @@
             <integer>1</integer>
 
             <key>PayloadIdentifier</key>
-            <string>ir.mokeb.webclip</string>
+            <string>com.test.webclip.payload</string>
 
             <key>PayloadUUID</key>
-            <string>1C7A8B5E-91F3-4D21-A8A9-3B6C7D8E9001</string>
-
-            <key>PayloadDisplayName</key>
-            <string>Mokeb</string>
-
-            <key>PayloadDescription</key>
-            <string>Home Screen shortcut for Mokeb</string>
-
-            <key>PayloadOrganization</key>
-            <string>Mokeb</string>
-
-            <!-- WEB CLIP SETTINGS -->
+            <string>123E4567-E89B-12D3-A456-426614174000</string>
 
             <key>Label</key>
             <string>Mokeb</string>
@@ -68,6 +44,17 @@
             <true/>
 
             <key>IsRemovable</key>
+            <true/>
+
+            <key>Precomposed</key>
+            <false/>
+
+        </dict>
+
+    </array>
+
+</dict>
+</plist>            <key>IsRemovable</key>
             <true/>
 
             <key>Precomposed</key>
