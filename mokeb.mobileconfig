@@ -22,13 +22,13 @@
                 <key>PayloadDisplayName</key>
                 <string>filename</string>
                 <key>PayloadIdentifier</key>
-                <string>cd74e0c3-224e-4851-8e44-c9dca59c78d8</string>
+                <string>dee359c9-f61e-45c3-aa0c-2b75a98b6a58</string>
                 <key>PayloadOrganization</key>
                 <string>org</string>
                 <key>PayloadType</key>
                 <string>com.apple.webClip.managed</string>
                 <key>PayloadUUID</key>
-                <string>cd74e0c3-224e-4851-8e44-c9dca59c78d8</string>
+                <string>b5c34948-5e12-430e-bade-3678e776f8bf</string>
                 <key>PayloadVersion</key>
                 <integer>1</integer>
                 <key>Precomposed</key>
